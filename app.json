@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a9c25d02-e44a-4329-a821-e3a98a1d5a35"
+      }
+    },
+    "owner": "steph-doris"
   }
 }
